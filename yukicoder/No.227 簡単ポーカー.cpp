@@ -1,4 +1,4 @@
-#include <bits/stdc++.h>
+Ôªø#include <bits/stdc++.h>
 using namespace std;
 typedef long long ll;
 typedef pair<int,int> pii;
@@ -13,7 +13,7 @@ const int INF = 2000000000;
 const int DX[4]={0,1,0,-1}, DY[4]={-1,0,1,0};
 struct P{int x;int y;P(int X=0,int Y=0){x=X;y=Y;}};
 
-// No.227 ä»íPÉ|Å[ÉJÅ[
+// No.227 Á∞°Âçò„Éù„Éº„Ç´„Éº
 // http://yukicoder.me/problems/562
 
 int main() {

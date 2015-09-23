@@ -1,4 +1,4 @@
-#include <bits/stdc++.h>
+Ôªø#include <bits/stdc++.h>
 using namespace std;
 typedef long long ll;
 typedef pair<int,int> pii;
@@ -13,7 +13,7 @@ const int INF = 2000000000;
 const int DX[4]={0,1,0,-1}, DY[4]={-1,0,1,0};
 struct P{int x;int y;P(int X=0,int Y=0){x=X;y=Y;}};
 
-// CODE FESTIVAL 2014 ó\ëIA
+// CODE FESTIVAL 2014 ‰∫àÈÅ∏A
 // http://code-festival-2014-quala.contest.atcoder.jp/assignments
 
 int geturu(ll X) {

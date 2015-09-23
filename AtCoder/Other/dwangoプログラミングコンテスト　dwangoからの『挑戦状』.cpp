@@ -1,4 +1,4 @@
-#include <stdio.h>
+ï»¿#include <stdio.h>
 #include <vector>
 #include <queue>
 #include <stack>
@@ -6,10 +6,10 @@
 #include <algorithm>
 using namespace std;
 
-// dwangoƒvƒƒOƒ‰ƒ~ƒ“ƒOƒRƒ“ƒeƒXƒg@dwango‚©‚ç‚Ìw’§íóx
+// dwangoãƒ—ãƒ­ã‚°ãƒ©ãƒŸãƒ³ã‚°ã‚³ãƒ³ãƒ†ã‚¹ãƒˆã€€dwangoã‹ã‚‰ã®ã€æŒ‘æˆ¦çŠ¶ã€
 // http://dwango2015-prelims.contest.atcoder.jp/assignments
 
-// •”•ª“_‰ğ–@
+// éƒ¨åˆ†ç‚¹è§£æ³•
 int main()
 {
 	int N, M;
@@ -53,14 +53,14 @@ int main()
 	return 0;
 }
 
-// •”•ª“_‰ğ–@
+// éƒ¨åˆ†ç‚¹è§£æ³•
 int main_B()
 {
 	char s[100010];
-	int sum = 0;  // ‡Œv‰ñ”
+	int sum = 0;  // åˆè¨ˆå›æ•°
 	scanf("%s", &s);
 
-	// ŠJn’n“_‚ğ‚¸‚ç‚·
+	// é–‹å§‹åœ°ç‚¹ã‚’ãšã‚‰ã™
 	bool connect = false;
 	int connection = 0;
 	vector<int> connection_num;
@@ -98,7 +98,7 @@ int main_B()
 		i += 2;
 	}
 
-	// sum‚É‘«‚·
+	// sumã«è¶³ã™
 	int ln = connection_num.size();
 	for (int i = 0; i < ln; i++){
 		sum += ((connection_num[i] - 1)*connection_num[i]) / 2;

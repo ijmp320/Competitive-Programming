@@ -1,4 +1,4 @@
-#include <bits/stdc++.h>
+ï»¿#include <bits/stdc++.h>
 using namespace std;
 typedef long long ll;
 typedef pair<int,int> pii;
@@ -13,7 +13,7 @@ const int INF = 2000000000;
 const int DX[4]={0,1,0,-1}, DY[4]={-1,0,1,0};
 struct P{int x;int y;P(int X=0,int Y=0){x=X;y=Y;}};
 
-// “V‰ºˆêƒvƒƒOƒ‰ƒ}[ƒRƒ“ƒeƒXƒg2015—\‘IA
+// å¤©ä¸‹ä¸€ãƒ—ãƒ­ã‚°ãƒ©ãƒãƒ¼ã‚³ãƒ³ãƒ†ã‚¹ãƒˆ2015äºˆé¸A
 // http://tenka1-2015-quala.contest.atcoder.jp/assignments
 
 int main() {

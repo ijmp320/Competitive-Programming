@@ -1,4 +1,4 @@
-#include <bits/stdc++.h>
+ï»¿#include <bits/stdc++.h>
 using namespace std;
 typedef long long ll;
 typedef unsigned long long ull;
@@ -14,7 +14,7 @@ const int INF = 2000000000;
 const int DX[4]={0,1,0,-1}, DY[4]={-1,0,1,0};
 struct P{int x;int y;P(int X=0,int Y=0){x=X;y=Y;}};
 
-// Indeed‚È‚¤iƒI[ƒvƒ“ƒRƒ“ƒeƒXƒgBj
+// Indeedãªã†ï¼ˆã‚ªãƒ¼ãƒ—ãƒ³ã‚³ãƒ³ãƒ†ã‚¹ãƒˆBï¼‰
 // http://indeednow-finalb-open.contest.atcoder.jp/assignments
 
 

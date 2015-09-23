@@ -1,4 +1,4 @@
-#include <bits/stdc++.h>
+ï»¿#include <bits/stdc++.h>
 using namespace std;
 typedef long long ll;
 typedef pair<int,int> pii;
@@ -19,8 +19,8 @@ struct P{int x;int y;P(int X=0,int Y=0){x=X;y=Y;}};
 #include <dirent.h>
 int main() {
     const char* path = "/bin";
-    DIR *dp;       // ƒfƒBƒŒƒNƒgƒŠ‚Ö‚Ìƒ|ƒCƒ“ƒ^
-    dirent* entry; // readdir() ‚Å•Ô‚³‚ê‚éƒGƒ“ƒgƒŠ[ƒ|ƒCƒ“ƒg
+    DIR *dp;       // ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã¸ã®ãƒã‚¤ãƒ³ã‚¿
+    dirent* entry; // readdir() ã§è¿”ã•ã‚Œã‚‹ã‚¨ãƒ³ãƒˆãƒªãƒ¼ãƒã‚¤ãƒ³ãƒˆ
     dp = opendir(path);
     if (dp==NULL) exit(1);
     vector<string> a;

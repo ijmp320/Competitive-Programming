@@ -1,4 +1,4 @@
-#include <bits/stdc++.h>
+ï»¿#include <bits/stdc++.h>
 using namespace std;
 typedef long long ll;
 typedef pair<int,int> pii;
@@ -13,7 +13,7 @@ const int INF = 2000000000;
 const int DX[4]={0,1,0,-1}, DY[4]={-1,0,1,0};
 struct P{int x;int y;P(int X=0,int Y=0){x=X;y=Y;}};
 
-// YUHA presents C88 “ä‰ğ‚«~‹£‹ZƒvƒƒOƒ‰ƒ~ƒ“ƒO w‚ ‚é—EÒ‚Ì•¨Œêx
+// YUHA presents C88 è¬è§£ãÃ—ç«¶æŠ€ãƒ—ãƒ­ã‚°ãƒ©ãƒŸãƒ³ã‚° ã€ã‚ã‚‹å‹‡è€…ã®ç‰©èªã€
 // http://yuha-c88.contest.atcoder.jp/assignments
 
 int main_B() {

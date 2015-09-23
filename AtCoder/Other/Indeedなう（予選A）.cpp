@@ -1,4 +1,4 @@
-#include <bits/stdc++.h>
+ï»¿#include <bits/stdc++.h>
 using namespace std;
 typedef long long int ll;
 typedef pair<int,int> pint;
@@ -7,7 +7,7 @@ const int INF = 100000000;
 const int dx[4]={0,1,0,-1}, dy[4]={-1,0,1,0};
 struct P{int x;int y;P(int X=0,int Y=0){x=X;y=Y;}};
 
-// Indeed‚È‚¤i—\‘IAj
+// Indeedãªã†ï¼ˆäºˆé¸Aï¼‰
 // http://indeednow-quala.contest.atcoder.jp/assignments
 
 int main_C() {

@@ -1,4 +1,4 @@
-#include <iostream>
+ï»¿#include <iostream>
 #include <cstdio>
 #include <cstdlib>
 #include <string>
@@ -11,7 +11,7 @@
 #define all(c) (c.begin,c.end())
 using namespace std;
  
-// “Œ‹H‹Æ‘åŠwƒvƒƒOƒ‰ƒ~ƒ“ƒOƒRƒ“ƒeƒXƒg2015
+// æ±äº¬å·¥æ¥­å¤§å­¦ãƒ—ãƒ­ã‚°ãƒ©ãƒŸãƒ³ã‚°ã‚³ãƒ³ãƒ†ã‚¹ãƒˆ2015
 // http://ttpc2015.contest.atcoder.jp/assignments
  
 #define A

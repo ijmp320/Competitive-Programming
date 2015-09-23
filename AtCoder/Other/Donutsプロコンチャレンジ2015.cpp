@@ -1,4 +1,4 @@
-#include <bits/stdc++.h>
+ï»¿#include <bits/stdc++.h>
 #include <stdio.h>
 #include <string.h>
 using namespace std;
@@ -8,7 +8,7 @@ const int dx[4]={0,1,0,-1};
 const int dy[4]={-1,0,1,0};
 struct Pos{public:int x;int y;Pos(int X=0,int Y=0){x=X;y=Y;}Pos(const Pos &p){x=p.x;y=p.y;}};
 
-// DonutsƒvƒƒRƒ“ƒ`ƒƒƒŒƒ“ƒW2015
+// Donutsãƒ—ãƒ­ã‚³ãƒ³ãƒãƒ£ãƒ¬ãƒ³ã‚¸2015
 // http://donuts-2015.contest.atcoder.jp/assignments
 
 int main_B_TLE() {

@@ -1,4 +1,4 @@
-#include <stdio.h>
+﻿#include <stdio.h>
 
 // AtCoder Beginner Contest 017
 // http://abc017.contest.atcoder.jp/assignments

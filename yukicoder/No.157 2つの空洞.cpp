@@ -1,4 +1,4 @@
-#include <bits/stdc++.h>
+﻿#include <bits/stdc++.h>
 using namespace std;
 typedef long long int ll;
 typedef pair<int,int> pint;
@@ -7,7 +7,7 @@ const int INF = 100000000;
 const int dx[4]={0,1,0,-1}, dy[4]={-1,0,1,0};
 struct P{int x;int y;P(int X=0,int Y=0){x=X;y=Y;}};
 
-// No.157 2�̋�
+// No.157 2つの空洞
 // http://yukicoder.me/problems/233
 
 int W,H;

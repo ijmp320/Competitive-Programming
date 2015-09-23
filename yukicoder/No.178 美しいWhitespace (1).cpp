@@ -1,4 +1,4 @@
-#include <bits/stdc++.h>
+ï»¿#include <bits/stdc++.h>
 using namespace std;
 typedef long long ll;
 typedef unsigned long long ull;
@@ -14,7 +14,7 @@ const int INF = 2000000000;
 const int DX[4]={0,1,0,-1}, DY[4]={-1,0,1,0};
 struct P{int x;int y;P(int X=0,int Y=0){x=X;y=Y;}};
 
-// No.178 ”ü‚µ‚¢Whitespace (1)
+// No.178 ç¾ã—ã„Whitespace (1)
 // http://yukicoder.me/problems/424
 
 int main() {
