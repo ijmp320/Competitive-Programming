@@ -1,4 +1,4 @@
-﻿# AtCoder
+# AtCoder
 [AtCoder](http://atcoder.jp/)のコンテストの解答コードを保管  
 
 - ABC  

@@ -1,4 +1,4 @@
-﻿#include <bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
 typedef long long int ll;
 #define MS(i,n) memset(i,n,sizeof(i))
