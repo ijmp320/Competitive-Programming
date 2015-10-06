@@ -1,4 +1,4 @@
-#include <iostream>
+Ôªø#include <iostream>
 #include <cstdio>
 #include <cstdlib>
 #include <string>
@@ -20,7 +20,7 @@ typedef long long ll;
 typedef pair<int,int> pii;
 typedef vector<vector<int>> vvi;
 
-// CODE FESTIVAL 2015 ó\ëIA
+// CODE FESTIVAL 2015 ‰∫àÈÅ∏A
 // http://code-festival-2015-quala.contest.atcoder.jp/assignments
 
 #define D
